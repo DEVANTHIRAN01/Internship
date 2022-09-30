@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.dialog {
+  box-shadow: 0 8px 6px -6px black;
+  position:fixed;
+  left: 5%;
+  top: 5%;
+  bottom: 20%;
+  zoom: 150%;
+}
+
+.image {
+  width: 300px;
+}
